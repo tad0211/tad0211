@@ -21,11 +21,35 @@ class Tejas:
 
 ## 🛠 Tech Stack
 
-**Languages:** Java · Python · C · C++ · JavaScript  
-**Web & DB:** HTML · CSS · REST APIs · MySQL · JDBC  
-**Cloud (AWS):** Lambda · KMS · S3 · IAM · Serverless Architecture  
-**ML:** scikit-learn · Random Forest · Decision Tree · pandas · NumPy  
-**CS Fundamentals:** DSA · OOP · DBMS · Operating Systems
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Web & Database:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white)
+
+**Cloud (AWS):**  
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![AWS S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![AWS KMS](https://img.shields.io/badge/KMS-DD344C?style=flat&logo=amazonaws&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/IAM-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+**Machine Learning:**  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**CS Fundamentals:**  
+![DSA](https://img.shields.io/badge/DSA-6DB33F?style=flat&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-9B59B6?style=flat&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-336791?style=flat&logo=postgresql&logoColor=white)
+![OS](https://img.shields.io/badge/Operating_Systems-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
