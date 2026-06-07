@@ -27,7 +27,6 @@
 class Tejas:
     name        = "Tejas Dandwate"
     education   = "B.Tech CSE @ MIT World Peace University, Pune (2023–2027)"
-    cgpa        = 7.75
     location    = "Pune, India 🇮🇳"
     open_to     = ["SDE Internships", "Backend Roles", "ML Engineering", "Cloud Roles"]
 
