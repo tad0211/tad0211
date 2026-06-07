@@ -141,19 +141,6 @@ class Tejas:
 |---|---|
 | 🇮🇳 **Smart India Hackathon 2025** | Delivered a government problem-statement solution in a 36-hour rapid prototyping sprint as part of a cross-functional team |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tad0211&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tad0211&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tad0211&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
