@@ -140,8 +140,6 @@ class Tejas:
 | 🏅 Achievement | 📋 Details |
 |---|---|
 | 🇮🇳 **Smart India Hackathon 2025** | Delivered a government problem-statement solution in a 36-hour rapid prototyping sprint as part of a cross-functional team |
-| 🎓 **MIT World Peace University** | B.Tech CSE · CGPA 7.75/10 · Batch of 2027 |
-| 📚 **The Bishop's Co-ed School** | Class 10 ICSE · 88.83% |
 
 ---
 
