@@ -16,7 +16,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-dandwate-53997a2b1)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tad0211)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dtejas0211@gmail.com)
-[![Phone](https://img.shields.io/badge/+91_9579147388-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919579147388)
 
 </div>
 
