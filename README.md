@@ -1,6 +1,7 @@
 <div align="center">
+    
 ```
-# Hi, I'm Tejas Dandwate 👋
+ Hi, I'm Tejas Dandwate 👋
 
 ### B.Tech CSE @ MIT World Peace University · Pune · 2023–2027
 
